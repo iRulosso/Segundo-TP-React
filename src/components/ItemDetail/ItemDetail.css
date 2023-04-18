@@ -1,0 +1,27 @@
+img{
+    width: 25rem;
+}
+
+.Detalles{
+    display: flex;
+    align-items:  left;
+    flex-direction: column;
+}
+
+.contenedorItem{
+    display: flex;
+    margin: 6rem;
+    padding: 3rem;
+    border: 0.5rem solid rgb(133, 10, 116);
+    background-color: white;
+}
+
+.nombre{
+    display: flex;
+    margin-left: 5rem;
+    flex-direction: column;
+}
+
+.descripcion{
+    width: 30rem;
+}
